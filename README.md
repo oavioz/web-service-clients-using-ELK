@@ -2,8 +2,24 @@ ELK -  Installation and Requirements
 =========
 
 Date Created: 31.08.2015
+
 Created By: Oshik Avioz, Big Data Expert
+
 Email: oavioz@gmail.com
+
+How to Deploy
+==========================
+
+1. git clone https://github.com/oavioz/web-service-clients-using-ELK.git
+2. change directory to folder content
+ 2.1 cd web-service-clients-using-ELK
+3. Change mode for execute
+ 3.1 chmod 750 *
+4. Running shell scrip
+ 4.1 ./elk-install.sh
+5. Open Kiban web interface and start using analytis
+ 5.1 http://<localIP>:5601/#/dashboard/MYGAMES-2015?_g=%28time:%28from:%272012-08-31T18:35:39.050Z%27,mode:absolute,to:%272013-02-03T19:50:39.050Z%27%29%29
+6. Enjoy :-)
 
 Requirements
 ==========================
