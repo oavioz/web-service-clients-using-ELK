@@ -20,7 +20,6 @@ sudo apt-get -y install git
 echo Installing ELK stack into $INSTALL_DIR
 mkdir -p $INSTALL_DIR
 cp mydb.conf $INSTALL_DIR
-cp week-by-week.json $INSTALL_DIR
 cp $DATA_BINARY $INSTALL_DIR
 cp kibana_default_data.sh $INSTALL_DIR
 
