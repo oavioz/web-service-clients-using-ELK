@@ -18,6 +18,7 @@ How to Deploy
 4. Running shell scrip
  4.1 ./elk-install.sh
 5. Open Kiban web interface and start using analytis
+
  5.1 http://<localIP>:5601/#/dashboard/MYGAMES-2015?_g=%28time:%28from:%272012-08-31T18:35:39.050Z%27,mode:absolute,to:%272013-02-03T19:50:39.050Z%27%29%29
 6. Enjoy :-)
 
