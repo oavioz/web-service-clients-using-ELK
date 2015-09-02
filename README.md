@@ -10,6 +10,8 @@ Email: oavioz@gmail.com
 How to Deploy
 ==========================
 
+If git not install please run sudo apt-get install -Y git
+
 1. git clone https://github.com/oavioz/web-service-clients-using-ELK.git
 2. change directory to folder content
  2.1 cd web-service-clients-using-ELK
